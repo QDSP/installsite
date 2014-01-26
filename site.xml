@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/dk.sdu.mmmi.qdsp.sdk_1.0.0.201401261000.jar" id="dk.sdu.mmmi.qdsp.sdk" version="1.0.0.201401261000">
+      <category name="qdsp"/>
+   </feature>
+   <category-def name="qdsp" label="QDSP"/>
+</site>
